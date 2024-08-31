@@ -1,4 +1,4 @@
-county,county_fips,year,registration,total
+county,county_fips,year,registration_type,total
 Aurora,46003,2024,boat,181
 Aurora,46003,2024,bus,5
 Aurora,46003,2024,commercial_plate,117
